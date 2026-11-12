@@ -1,0 +1,12 @@
+*
+!public/
+!public/**
+!src/
+!src/**
+!views/
+!views/**
+!scripts/
+!scripts/**
+!database/
+!database/**
+!Dockerfile
